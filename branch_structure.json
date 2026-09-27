@@ -1,0 +1,18 @@
+{
+  "default_branch": "master",
+  "branches": [
+    "master",
+    "origin",
+    "solver/issue-477-135-a0"
+  ],
+  "parent": {
+    "master": null,
+    "origin": "master",
+    "solver/issue-477-135-a0": "master"
+  },
+  "order": [
+    "master",
+    "origin",
+    "solver/issue-477-135-a0"
+  ]
+}
